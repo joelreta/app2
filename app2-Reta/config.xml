@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id="com.phonegap.app2Garate" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+
+<name>PhoneGap-Garate</name>
+
+<description>
+Aplicacion que describe el funcionamiento de PhoneGap
+</description>
+
+<author href="https://example.com" email="you@example.com">
+Garate Moran Juan Jose
+</author>
+
+<icon src="img/iconA.png" gap:density="ldpi" gap:platform="android" />
+<icon src="img/iconA.png" gap:density="mdpi" gap:platform="android" />
+<icon src="img/iconA.png" gap:density="hdpi" gap:platform="android" />
+<icon src="img/iconA.png" gap:density="xhdpi" gap:platform="android" />
+	
+	<content src="index.html"/>
+</widget>
+
